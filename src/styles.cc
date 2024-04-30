@@ -92,7 +92,7 @@ a {
 }
 
 #banner1 {
-  height: 400px;
+  height: 200px;
   width: 100%;
 }
 

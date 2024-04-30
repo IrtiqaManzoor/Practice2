@@ -55,7 +55,7 @@ nav {
 }
 
 ul {
-  list-style-type: none;
+  list-style-type: inline;
   font-family: sans-serif;
 }
 
